@@ -10,7 +10,7 @@ export const AndroidMarket = {
   Amazon: 2,
   Other: 3,
 }
-
+Hola como estas 
 const noop = () => {}
 
 export default class Rate {
